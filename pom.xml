@@ -12,6 +12,7 @@
 	<modules>
 
 	<module>dtc-core</module>
+	<module>dtc-api</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
