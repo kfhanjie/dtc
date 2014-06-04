@@ -1,4 +1,4 @@
-package com.github.dtc.model;
+package com.github.dtc.domain;
 
 public class BusinessActivity {
 
